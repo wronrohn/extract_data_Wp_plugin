@@ -8,8 +8,8 @@ Author: Rohnit Shetty
 Author URI: https://github.com/wronrohn
 */
 /*
-	Copyright 2019	Rohnit Shetty	(email : jason@strangerstudios.com)
-	Licensed under the GPLv2 license: http://www.gnu.org/licenses/gpl-2.0.html
+	Copyright 2019	Rohnit Shetty	(email : rohnitshetty15@gmail.com)
+	Licensed under the MIT License : https://opensource.org/licenses/MIT
 */
 
 include 'config.php';
